@@ -1,4 +1,4 @@
-# -mech105
+# False-Position Function
 
 The falsePosition function uses the false position bracketing method
 to estimate the roots of a user inputted function. 
