@@ -1,4 +1,4 @@
-# -mech105
+# Lower/Upper Triangular Matrix Decomposition
 
 [L,U,P] = luFactor(A)
 
