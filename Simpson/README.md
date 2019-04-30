@@ -1,4 +1,4 @@
-# -mech105
+# Simpson's 1/3 Rule
 
 [I] = Simpson(x,y)
 
